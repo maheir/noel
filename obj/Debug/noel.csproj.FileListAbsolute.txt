@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\noel\noel\bin\Debug\noel.exe.config
+C:\Users\Dell\source\repos\noel\noel\bin\Debug\noel.exe
+C:\Users\Dell\source\repos\noel\noel\bin\Debug\noel.pdb
+C:\Users\Dell\source\repos\noel\noel\obj\Debug\noel.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\noel\noel\obj\Debug\noel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\noel\noel\obj\Debug\noel.exe
+C:\Users\Dell\source\repos\noel\noel\obj\Debug\noel.pdb
